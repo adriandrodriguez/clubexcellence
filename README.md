@@ -1,2 +1,2 @@
-# clubexcellence
-beach scene website
+# philosophy
+philosophy
